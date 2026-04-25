@@ -1,7 +1,7 @@
 ﻿
 # Projeto QRCode
 
-Este projeto foi desenvolvido durante o curso da DIO de Node.js e tem como objetivo gerar QR Codes a partir de textos ou links.
+Este projeto foi desenvolvido durante o curso da DIO de Node.js.
 
 ## 🚀 Tecnologias utilizadas
 - Node.js
